@@ -4,7 +4,10 @@
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+* Ángel Olvera -----> https://github.com/angeell17
+* Luis Gómez-Castrillón -----> https://github.com/LGCastrillon  
+* Felipe Tafurth -----> https://github.com/felipetafurth
+* Julia Moya -----> https://github.com/juliamgy
 
 ## Objetivos del trabajo
 
